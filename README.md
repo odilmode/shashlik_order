@@ -412,9 +412,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/restaurant-order-system/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/restaurant-order-system/discussions)
-- **Email:** your-email@example.com
+- **Issues:** [GitHub Issues](https://github.com/odilmode/shashlik_order/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/odilmode/shashlik_order/discussions)
+- **Email:** odilfazilov821@example.com
 
 ---
 
